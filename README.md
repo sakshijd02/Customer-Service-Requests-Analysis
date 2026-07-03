@@ -4,8 +4,11 @@
 ## 📌 Project Overview
 
 The **Customer Service Requests Analysis Dashboard** is a data analytics project developed to analyze customer service request data and generate meaningful business insights. The project follows the complete data analytics lifecycle—from data cleaning and exploratory data analysis (EDA) to visualization and dashboard development.
-🛠️ Tools & Technologies Used
 
+
+🛠️ Tools & Technologies Used:
+
+---
 * Python
 * Pandas
 * NumPy
@@ -13,7 +16,6 @@ The **Customer Service Requests Analysis Dashboard** is a data analytics project
 * Seaborn
 * Plotly
 * Jupyter Notebook
-* ExcelThe dashboard helps identify complaint patterns, monitor request status, evaluate agency performance, and analyze geographical trends to support data-driven decision-making.
 
 ---
 
@@ -28,15 +30,16 @@ The **Customer Service Requests Analysis Dashboard** is a data analytics project
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies Used
 
-| Category                | Tools                                      |
-| ----------------------- | ------------------------------------------ |
-| Programming Language    | Python                                     |
-| Libraries               | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| Development Environment | Jupyter Notebook                           |
-| Data Source             | Microsoft Excel                            |
-| Version Control         | Git & GitHub                               |
+| Category                    | Technology                                 |
+| --------------------------- | ------------------------------------------ |
+| **Programming Language**    | Python                                     |
+| **Libraries**               | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
+| **Development Environment** | Jupyter Notebook                           |
+| **Data Source**             | Microsoft Excel                            |
+| **Version Control**         | Git & GitHub                               |
+
 
 ---
 
@@ -142,6 +145,8 @@ Designed an interactive dashboard displaying:
 * 📌 Interactive Visualizations
 * 📌 Business Intelligence Reporting
 
+  ---
+
 ## 🚀 Future Enhancements
 
 * Develop predictive models for complaint forecasting.
@@ -149,23 +154,10 @@ Designed an interactive dashboard displaying:
 * Build a web-based dashboard using Streamlit.
 * Add geographical heatmaps for complaint hotspots.
 
+  ---
+
 ## 👩‍💻 About Me
 
 **Sakshi Jagdale**
 Aspiring **Data Analyst** passionate about transforming raw data into actionable business insights through analytics and visualization.
-
-### 🛠 Technical Skills
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-* Microsoft Excel
-* SQL
-* Power BI
-* Git & GitHub
-
-
 This project was developed as part of my **Data Analytics learning journey and internship experience** to demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development.
