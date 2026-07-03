@@ -3,7 +3,8 @@
 
 ## 📌 Project Overview
 
-The **Customer Service Requests Analysis Dashboard** is a data analytics project developed to analyze customer service request data and generate meaningful business insights. The project follows the complete data analytics lifecycle—from data cleaning and exploratory data analysis (EDA) to visualization and dashboard development. 🛠️ Tools & Technologies Used
+The **Customer Service Requests Analysis Dashboard** is a data analytics project developed to analyze customer service request data and generate meaningful business insights. The project follows the complete data analytics lifecycle—from data cleaning and exploratory data analysis (EDA) to visualization and dashboard development.
+🛠️ Tools & Technologies Used
 
 * Python
 * Pandas
