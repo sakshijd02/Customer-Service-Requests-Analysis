@@ -51,8 +51,6 @@ The dataset contains customer service request records with the following informa
 * Location
 * Resolution Information
 
-The dataset was cleaned, transformed, and analyzed to extract valuable operational insights.
-
 ---
 
 ## 🔄 Project Workflow
